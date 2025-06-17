@@ -1,16 +1,13 @@
-## Hi there 👋
+## About-Me
+👋 Hi there! I'm a diligent and hardworking Data Analyst with a passion for turning data into actionable insights that drive business decisions.
+🔍 As a Business Intelligence Analyst, I specialize in helping teams make smarter decisions by uncovering the stories behind the data and simplifying reporting.
 
-<!--
-**MackP25/MackP25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Core Skills: SQL | Tableau | Power BI | Spreadsheets
 
-Here are some ideas to get you started:
+📜 Certification: Data Analysis Certificate from TripleTen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, always improving — exploring the latest tools and techniques in data analytics to solve real-world business problems.
+
+Reach me at
+
+[Linkedin](www.linkedin.com/in/mack-pickar) | [mackpickar@gmail.com](mackpickar@gmail.com) |
